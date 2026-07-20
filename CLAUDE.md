@@ -44,6 +44,9 @@ This project follows **Spec Driven Design**:
 
 Follow the practices from [Klerith/fernando-skills](https://github.com/Klerith/fernando-skills) for structuring features.
 
+## Skills
+Usa siempre /frontend-design para diseñar la interfaz de usuario.
+
 ## Architecture
 
 ```
